@@ -1,0 +1,14 @@
+# Local credentials and deployment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+node_modules/
+__pycache__/
+
+# Temporary Office files and completed submission package
+~$*
+本地签字材料/
+报名最终包/
